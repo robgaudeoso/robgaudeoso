@@ -1,6 +1,7 @@
 ### Hi there! I'm Roberto Gaudeoso 👋 
 
 - 📚 I’m currently a student of Systems Analysis and Development at FIAP ☜(ﾟヮﾟ☜)
+- 🌱 Always learning new things!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobGaudeoso&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobGaudeoso&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
