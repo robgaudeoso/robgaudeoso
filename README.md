@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+Roberto+Gaudeoso;🤘+Welcome+to+my+profile!😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F6F7&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Roberto+Gaudeoso;%F0%9F%A4%98+Welcome+to+my+profile!%F0%9F%98%81)](https://git.io/typing-svg)
 
 - 📚 I’m currently a student of Systems Analysis and Development at FIAP ☜(ﾟヮﾟ☜)
 - 🌱 Always learning new things!
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobGaudeoso&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobGaudeoso&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobGaudeoso&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobGaudeoso&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
