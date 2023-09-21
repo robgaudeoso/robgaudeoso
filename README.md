@@ -23,6 +23,3 @@
  <div> 
   <a href="https://www.linkedin.com/in/roberto-gaudeoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![snake gif](https://github.com/robgaudeoso/robgaudeoso/blob/output/github-contribution-grid-snake.gif)
-[!readme](https://github-readme-stats.vercel.app/api/pin/?username=robgaudeoso&repo=robgaudeoso&theme=react)](https://github.com/robgaudeoso/robgaudeoso)
