@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=18F6F7&width=500&lines=%F0%9F%91%8B+Hi+there!+I'm+Roberto+Gaudeoso;%F0%9F%A4%98+Welcome+to+my+profile!%F0%9F%98%81)](https://git.io/typing-svg)
 
+- 💻 Full Stack developer
 - 📚 I’m currently a student of Systems Analysis and Development at FIAP ☜(ﾟヮﾟ☜)
 - 🚀 Always learning new things!
 
